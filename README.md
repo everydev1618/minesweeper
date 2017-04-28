@@ -108,6 +108,7 @@ Input :
 
 Output:
 
+```
 Case #1: Impossible
 Case #2:
 c
@@ -131,5 +132,6 @@ Case #5:
 **********
 **********
 **********
+```
 
 Code jams is under the [CC license](https://creativecommons.org/licenses/by/3.0/)
